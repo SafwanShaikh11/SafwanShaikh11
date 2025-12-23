@@ -1,17 +1,53 @@
-## Hi there 👋
+## Hi, I'm Safwan Shaikh
 
-<!--
-**SafwanShaikh11/SafwanShaikh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Computer Science student working primarily with Java and Spring Boot.
+I build backend systems with clear state models, authentication, and persistence, and I’m expanding into cloud-native fundamentals and applied ML.
 
-Here are some ideas to get you started:
+### What I’m working on
+- Backend job orchestration service with task state machines, retries, and worker execution (Spring Boot, PostgreSQL)
+- OAuth2 authentication and authorization flows using Spring Security and JWT
+- Turning ML pipelines into deployable backend services
+- Frontend experimentation with React / Next.js (CityPulse)
+- Learning containerization, orchestration, and cloud deployment basics
 
-- 🔭 I’m currently working how to properly use Angular Language for my web hosting 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm really not that much
--->
-Practical, conceptual, Learner, Specialist
-What the hell , what the helly 
+### Tech stack
+
+**Primary**
+- Languages: Java, Python
+- Backend: Spring Boot, Spring Security, REST APIs
+- Databases: PostgreSQL, MySQL
+
+**Frontend / Exposure**
+- React, Next.js, TypeScript
+- Angular (learning)
+
+**ML**
+- PyTorch, scikit-learn, TenserFlow
+
+**Cloud & Infrastructure (hands-on basics)**
+- Docker, Kubernetes
+- AWS, Google Cloud Platform, Azure
+
+**Tools**
+- Git, Maven
+
+### Selected work
+- **Spring Boot OAuth Service**  
+  OAuth2, JWT, role-based access, secure API design
+- **Job Orchestration Backend**  
+  Asynchronous task execution, state management, retries, persistence
+- **CityPulse (Frontend)**  
+  React / Next.js frontend experimentation
+- **Car Make Recognition Service**  
+  Unsupervised ML pipeline with embedding extraction and REST-exposed inference
+
+### Background
+- Computer Science Engineering, Brock University (Data Analytics & Software Development)
+- Coursework includes DSA, Systems Programming, Computer Architecture, ML & CV
+- Prior non-tech roles in high-volume retail environments (reliability, operations)
+
+### Interests
+- Backend systems and APIs
+- Task scheduling and workflows
+- Cloud-native application fundamentals
+- Production-grade ML systems
