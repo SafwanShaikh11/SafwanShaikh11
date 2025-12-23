@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm really not that much
 -->
 Practical, conceptual, Learner, Specialist
+What the hell , what the helly 
