@@ -22,7 +22,7 @@ I build backend systems with clear state models, authentication, and persistence
 - Angular (learning)
 
 **ML**
-- PyTorch, scikit-learn, TenserFlow
+- PyTorch, scikit-learn, TenserFlow.
 
 **Cloud & Infrastructure (hands-on basics)**
 - Docker, Kubernetes
