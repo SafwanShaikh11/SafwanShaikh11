@@ -15,17 +15,17 @@ I build backend systems with clear state models, authentication, and persistence
 **Primary**
 - Languages: Java, Python
 - Backend: Spring Boot, Spring Security, REST APIs
-- Databases: PostgreSQL, MySQL
+- Databases: PostgreSQL, MySQL, GraphQL.
 
 **Frontend / Exposure**
 - React, Next.js, TypeScript
-- Angular (learning)
+- Angular (learning), Almost done with it doe hehe
 
 **ML**
 - PyTorch, scikit-learn, TenserFlow.
 
 **Cloud & Infrastructure (hands-on basics)**
-- Docker, Kubernetes
+- Docker, Kubernetes yeah that the fuck else am i supposed to do
 - AWS, Google Cloud Platform, Azure,Hell Yeah Baby 
 
 **Tools**
