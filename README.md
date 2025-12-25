@@ -26,7 +26,7 @@ I build backend systems with clear state models, authentication, and persistence
 
 **Cloud & Infrastructure (hands-on basics)**
 - Docker, Kubernetes
-- AWS, Google Cloud Platform, Azure
+- AWS, Google Cloud Platform, Azure,Hell Yeah Baby 
 
 **Tools**
 - Git, Maven
@@ -37,7 +37,7 @@ I build backend systems with clear state models, authentication, and persistence
 - **Job Orchestration Backend**  
   Asynchronous task execution, state management, retries, persistence
 - **CityPulse (Frontend)**  
-  React / Next.js frontend experimentation
+  React / Next.js frontend experimentation.
 - **Car Make Recognition Service**  
   Unsupervised ML pipeline with embedding extraction and REST-exposed inference
 
