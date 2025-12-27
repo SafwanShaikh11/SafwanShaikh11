@@ -44,7 +44,7 @@ I build backend systems with clear state models, authentication, and persistence
 ### Background
 - Computer Science Engineering, Brock University (Data Analytics & Software Development)
 - Coursework includes DSA, Systems Programming, Computer Architecture, ML & CV
-- Prior non-tech roles in high-volume retail environments (reliability, operations)
+- Prior non-tech roles in high-volume retail environments (reliability, operations).
 
 ### Interests
 - Backend systems and APIs
