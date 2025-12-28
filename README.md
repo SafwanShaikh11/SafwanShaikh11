@@ -1,54 +1,33 @@
-## Hi, I'm Safwan Shaikh
+# Hi, I'm Safwan Shaikh 👋
+Currently learning Kubernetes & Angular. Open to junior backend/full-stack roles!
 
-Backend-focused Computer Science student working primarily with Java and Spring Boot.
-I build backend systems with clear state models, authentication, and persistence, and I’m expanding into cloud-native fundamentals and applied ML.
+Backend-focused developer skilled in **Java, Spring Boot**, and **Machine Learning**.
 
-### What I’m working on
-- Backend job orchestration service with task state machines, retries, and worker execution (Spring Boot, PostgreSQL)
-- OAuth2 authentication and authorization flows using Spring Security and JWT
-- Turning ML pipelines into deployable backend services
-- Frontend experimentation with React / Next.js (CityPulse)
-- Learning containerization, orchestration, and cloud deployment basics
-- muhehehe
+Building secure APIs, task orchestration systems, and production-ready ML pipelines.
 
-### Tech stack
+### 🔧 Tech Stack
+**Backend**  
+Java • Spring Boot • Spring Security • PostgreSQL • REST/GraphQL • JWT/OAuth2
 
-**Primary**
-- Languages: Java, Python
-- Backend: Spring Boot, Spring Security, REST APIs
-- Databases: PostgreSQL, MySQL, GraphQL.
+**ML**  
+Python • PyTorch • scikit-learn • TensorFlow • Computer Vision
 
-**Frontend / Exposure**
-- React, Next.js, TypeScript
-- Angular (learning), Almost done with it doe hehe
+**Frontend**  
+React • Next.js • Angular • TypeScript
 
-**ML**
-- PyTorch, scikit-learn, TenserFlow.
+**DevOps**  
+Docker • Kubernetes • AWS basics
 
-**Cloud & Infrastructure (hands-on basics)**
-- Docker, Kubernetes yeah that the fuck else am i supposed to do
-- AWS, Google Cloud Platform, Azure,Hell Yeah Baby 
+### 🚀 Key Projects
+- **Job Orchestration Service** – Async tasks with state machines & retries (Spring Boot + PostgreSQL)
+- **Secure OAuth2 API** – JWT authentication & role-based access (Spring Security)
+- **Unsupervised Car Recognition** – ResNet-SimCLR pipeline → 81% Silhouette Score (PyTorch)
+- **Flower Shop System** – Full OOP Java app with priority queues & inventory
 
-**Tools**
-- Git, Maven
+### 📚 Background
+Computer Science coursework – Brock University  
+HackerRank Certified: Python • Java • SQL (Basic + Advanced)
 
-### Selected work
-- **Spring Boot OAuth Service**  
-  OAuth2, JWT, role-based access, secure API design
-- **Job Orchestration Backend**  
-  Asynchronous task execution, state management, retries, persistence
-- **CityPulse (Frontend)**  
-  React / Next.js frontend experimentation.
-- **Car Make Recognition Service**  
-  Unsupervised ML pipeline with embedding extraction and REST-exposed inference
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/safwan-shaikh-brocku-csc/) • [GitHub](https://github.com/SafwanShaikh11)
 
-### Background
-- Computer Science Engineering, Brock University (Data Analytics & Software Development)
-- Coursework includes DSA, Systems Programming, Computer Architecture, ML & CV
-- Prior non-tech roles in high-volume retail environments (reliability, operations).
-
-### Interests
-- Backend systems and APIs
-- Task scheduling and workflows
-- Cloud-native application fundamentals
-- Production-grade ML systems
