@@ -9,6 +9,7 @@ I build backend systems with clear state models, authentication, and persistence
 - Turning ML pipelines into deployable backend services
 - Frontend experimentation with React / Next.js (CityPulse)
 - Learning containerization, orchestration, and cloud deployment basics
+- muhehehe
 
 ### Tech stack
 
