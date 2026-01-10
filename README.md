@@ -27,6 +27,7 @@ Docker • Kubernetes • AWS basics
 ### 📚 Background
 Computer Science coursework – Brock University  
 HackerRank Certified: Python • Java • SQL (Basic + Advanced)
+Statistics, Advanced Algebra
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/safwan-shaikh-brocku-csc/) • [GitHub](https://github.com/SafwanShaikh11)
