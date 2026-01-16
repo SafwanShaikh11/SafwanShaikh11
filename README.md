@@ -32,6 +32,7 @@ Statistics, Advanced Algebra
 heheh
 
 easy peast lemon squeasy
+what da hewl
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/safwan-shaikh-brocku-csc/) • [GitHub](https://github.com/SafwanShaikh11)
 
