@@ -29,7 +29,7 @@ Computer Science coursework – Brock University
 HackerRank Certified: Python • Java • SQL (Basic + Advanced)
 Statistics, Advanced Algebra
 
-heheh
+heheh muhehehe i dont know what the fuck im foing with my lijgeright now
 
 easy peast lemon squeasy
 what da hewl
