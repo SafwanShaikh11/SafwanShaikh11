@@ -1,6 +1,6 @@
 # Hi, I'm Safwan Shaikh.
 Currently learning Kubernetes & Angular. Open to junior backend/full-stack roles!
-
+yeah bouyy
 
 Backend-focused developer skilled in **Java, Spring Boot**, and **Machine Learning**.
 
