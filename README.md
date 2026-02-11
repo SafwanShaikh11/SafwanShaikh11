@@ -1,6 +1,6 @@
 # Hi, I'm Safwan Shaikh.
 Currently learning Kubernetes & Angular. Open to junior backend/full-stack roles!
-yeah bouyy tthat what im talking about that's why he's the goat the goat ,   
+yeah bouyy tthat what im talking about that's why he's the goat the goat ,   form the dusty mansion, when the shadows grow
 
 Backend-focused developer skilled in **Java, Spring Boot**, and **Machine Learning**.
 
