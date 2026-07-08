@@ -1,4 +1,4 @@
-# Hi, I'm Safwan Shaikh 👋
+#  Safwan Shaikh 
 
 Backend-focused Software Engineer with experience building secure Java applications using Spring Boot, PostgreSQL, and Spring Security.
 
