@@ -1,34 +1,43 @@
-# Hi, I'm Safwan Shaikh.
-Currently learning Kubernetes & Angular. Open to junior backend/full-stack roles!
+# Hi, I'm Safwan Shaikh 👋
 
-Backend-focused developer skilled in **Java, Spring Boot**, and **Machine Learning**.
+Backend-focused Software Engineer with experience building secure Java applications using Spring Boot, PostgreSQL, and Spring Security.
 
-Building secure APIs, task orchestration systems, and production-ready ML pipelines.
+Currently learning Angular and Kubernetes while expanding into full-stack development.
 
-### 🔧 Tech Stack
-**Backend**  
-Java • Spring Boot • Spring Security • PostgreSQL • REST/GraphQL • JWT/OAuth2
+## Tech Stack
 
-**ML**  
-Python • PyTorch • scikit-learn • TensorFlow • Computer Vision
+### Backend
+Java • Spring Boot • Spring Security • REST APIs • OAuth2 • PostgreSQL • MySQL
 
-**Frontend**  
-React • Next.js • Angular • TypeScript
+### Frontend
+JavaScript • TypeScript • HTML • CSS • Angular (Learning)
 
-**DevOps**  
-Docker • Kubernetes • AWS basics
+### Machine Learning
+Python • PyTorch • Computer Vision • ResNetSimCLR
 
-### 🚀 Key Projects
-- **Job Orchestration Service** – Async tasks with state machines & retries (Spring Boot + PostgreSQL)
-- **Secure OAuth2 API** – JWT authentication & role-based access (Spring Security)
-- **Unsupervised Car Recognition** – ResNet-SimCLR pipeline → 81% Silhouette Score (PyTorch)
-- **Flower Shop System** – Full OOP Java app with priority queues & inventory
+### DevOps
+Docker • Kubernetes (Learning) • AWS (Basic)
 
-### 📚 Background
-Computer Science coursework – Brock University  
-HackerRank Certified: Python • Java • SQL (Basic + Advanced)
-Statistics, Advanced Algebra
+## Featured Projects
 
-### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/safwan-shaikh-brocku-csc/) • [GitHub](https://github.com/SafwanShaikh11)
+🔹 OAuth-Based User Management Backend
+- Spring Boot, OAuth2, Spring Security, PostgreSQL, Docker
 
+🔹 Vehicle Showcase & Wishlist Web Application
+- PHP, JavaScript, HTML, CSS, Jest
+
+🔹 Car Image Clustering
+- PyTorch, ResNetSimCLR, T-SNE
+
+🔹 Airport & Airline Management System
+- C++, Data Structures & Algorithms
+
+## Certifications
+
+- HackerRank Software Engineer
+- HackerRank Java
+- HackerRank Python
+- HackerRank SQL (Basic)
+- HackerRank SQL (Advanced)
+
+Open to Junior Backend and Full-Stack Software Engineering opportunities.
